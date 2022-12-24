@@ -18,8 +18,8 @@ The following **required** functionality is completed:
 The following **optional** features are implemented:
 
 * [x] List anything else that you can get done to improve the app functionality! 
--Added a Nav bar that brings the user straight to the Games section
--Added a Search bar that allows the user to search for Games that they want to find
+* -Added a Nav bar that brings the user straight to the Games section
+* -Added a Search bar that allows the user to search for Games that they want to find
 
 ## Video Walkthrough
 
